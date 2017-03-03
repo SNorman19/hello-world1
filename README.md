@@ -1,2 +1,5 @@
 # hello-world1
-Hello my name is Scott Norman
+Hi my name is Scott
+This is my first Repository.
+Repository
+
